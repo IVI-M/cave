@@ -1,0 +1,13 @@
+name: cave
+title: cave
+username:
+account: vaccines
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4900001
+bundleId: 5441200
+url: https://vaccines.shinyapps.io/cave/
+when: 1641493781.67454
+lastSyncTime: 1641493781.67454
+asMultiple: FALSE
+asStatic: FALSE
